@@ -3,7 +3,7 @@ Conheça mais sobre mim, as ferramentas e tecnologias que trabalho.
 # Olá! Eu sou a Valéria 👋
 
 Sou apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em projetos reais.  
-Atualmente estudando programação e desenvolvendo projetos focados em Python, SQL e web.
+Atualmente estudando programação e desenvolvendo projetos focados em Python, SQL e um pouco sobre Inteligência Artificial.
 
 ---
 
