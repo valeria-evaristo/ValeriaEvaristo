@@ -25,11 +25,11 @@ Atualmente estudando programação e desenvolvendo projetos focados em Python, S
 
 ##  Contato
 
-<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+<a href="https://www.linkedin.com/in/valéria-evaristo-982496211" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:valleriahsilva@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
